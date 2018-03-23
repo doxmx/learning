@@ -11,6 +11,10 @@ Topics with resources to learn
   - Pandas
   - Machine Learning
 - Docker - 
+- CI/CD
+  - Jenkins
+  - TravisCI
+  - Drone
 - Terraform - 
 - AWS
 - Azure
